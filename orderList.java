@@ -9,6 +9,7 @@ public class orderList {
 			for(int j=0;j<arr.length;j++) {
 				if(i!=j) {
 			System.out.print(arr[i]+""+arr[j]+",");
+					System.out.print(updated);
 				}
 			}		
 		
